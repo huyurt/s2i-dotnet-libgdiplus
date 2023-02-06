@@ -1,0 +1,5 @@
+test/split_build
+
+# source-to-image builder
+s2i.exe
+sti.exe
