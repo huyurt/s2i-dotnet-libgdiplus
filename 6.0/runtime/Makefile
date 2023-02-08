@@ -1,4 +1,4 @@
-IMAGE_NAME = huyurt/s2i-dotnet-libgdiplus
+IMAGE_NAME = huyurt/s2i-dotnet-libgdiplus-runtime
 
 # Create an Image Builder named above based on the Dockerfile that was created previously.
 .PHONY: build

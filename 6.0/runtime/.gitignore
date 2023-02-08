@@ -1,0 +1,6 @@
+test/dockerfile-run-dotnet/
+test/precompiled/
+
+# source-to-image builder
+s2i.exe
+sti.exe
